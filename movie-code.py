@@ -9,7 +9,7 @@ Created on Fri Mar 19 16:23:34 2021
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 
-data = pd.read_csv(r'C:\Users\Aakash\Desktop\AAKASH\Coding Stuff\Full Data Science\Association Rules\Assginment\movie.csv')
+data = pd.read_csv('movie.csv')
 
 del data['V1']
 del data['V2']
