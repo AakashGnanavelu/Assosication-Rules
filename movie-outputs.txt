@@ -1,0 +1,16 @@
+	antecedents	consequents	antecedent support	consequent support	support	confidence	lift	leverage	conviction
+22	frozenset({'Sixth Sense', 'Harry Potter1'})	frozenset({'Green Mile'})	0.1	0.2	0.1	1.0	5.0	0.08	inf
+2	frozenset({'Sixth Sense', 'Harry Potter1'})	frozenset({'LOTR2'})	0.1	0.2	0.1	1.0	5.0	0.08	inf
+14	frozenset({'Sixth Sense', 'LOTR1'})	frozenset({'Green Mile'})	0.1	0.2	0.1	1.0	5.0	0.08	inf
+36	frozenset({'Green Mile', 'LOTR1'})	frozenset({'LOTR2'})	0.1	0.2	0.1	1.0	5.0	0.08	inf
+33	frozenset({'Green Mile', 'Gladiator'})	frozenset({'LOTR'})	0.1	0.1	0.1	1.0	10.0	0.09	inf
+16	frozenset({'Harry Potter1', 'LOTR1'})	frozenset({'Green Mile'})	0.1	0.2	0.1	1.0	5.0	0.08	inf
+40	frozenset({'Sixth Sense', 'LOTR'})	frozenset({'Green Mile'})	0.1	0.2	0.1	1.0	5.0	0.08	inf
+44	frozenset({'Harry Potter2'})	frozenset({'Harry Potter1'})	0.1	0.2	0.1	1.0	5.0	0.08	inf
+27	frozenset({'LOTR2'})	frozenset({'Harry Potter1', 'LOTR1'})	0.2	0.1	0.1	0.5	5.0	0.08	1.8
+12	frozenset({'LOTR1'})	frozenset({'Sixth Sense', 'LOTR2'})	0.2	0.1	0.1	0.5	5.0	0.08	1.8
+46	frozenset({'LOTR2', 'Harry Potter1'})	frozenset({'Green Mile'})	0.1	0.2	0.1	1.0	5.0	0.08	inf
+28	frozenset({'Sixth Sense', 'LOTR2'})	frozenset({'Green Mile'})	0.1	0.2	0.1	1.0	5.0	0.08	inf
+6	frozenset({'Sixth Sense', 'LOTR1'})	frozenset({'Harry Potter1'})	0.1	0.2	0.1	1.0	5.0	0.08	inf
+30	frozenset({'LOTR'})	frozenset({'Green Mile'})	0.1	0.2	0.1	1.0	5.0	0.08	inf
+0	frozenset({'LOTR1'})	frozenset({'LOTR2'})	0.2	0.2	0.2	1.0	5.0	0.16	inf
