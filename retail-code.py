@@ -8,7 +8,7 @@ Created on Sat Mar 20 11:48:05 2021
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 
-data = pd.read_csv(r'C:\Users\Aakash\Desktop\AAKASH\Coding Stuff\Full Data Science\Association Rules\Assginment\retail.csv')
+data = pd.read_csv(r'retail.csv')
 
 data = data.dropna()
 data.columns = ['hang','heart','hold','light', 'white','na']
