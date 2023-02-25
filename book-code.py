@@ -8,7 +8,7 @@ Created on Thu Mar 18 16:51:57 2021
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 
-data = pd.read_csv(r'C:\Users\Aakash\Desktop\AAKASH\Coding Stuff\Full Data Science\Association Rules\Assginment\book.csv')
+data = pd.read_csv('book.csv')
 
 from collections import Counter
 item_frequencies = Counter(data)
